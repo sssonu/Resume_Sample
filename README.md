@@ -3,4 +3,4 @@
 
 
     
-[Click here for link](https://sssonu.github.io/My-resume/)    
+[Click here for link](https://sssonu.github.io/Resume_Sample/)    
