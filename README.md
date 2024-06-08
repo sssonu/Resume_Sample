@@ -1,6 +1,4 @@
-### This is the simple resume sample 
-Note:-
-    - This is a sample only
+### This is a simple resume 
 
 
 
